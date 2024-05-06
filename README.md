@@ -8,11 +8,11 @@
 </p>
 <div align="center">
   
-[![GitHub contributors](https://img.shields.io/github/contributors/ahmednassar/todolist_react)](https://github.com/todolist_react/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/ahmednassar/todolist_react)](https://github.com/gaserashraf/todolist_react/issues)
-[![GitHub forks](https://img.shields.io/github/forks/ahmednassar/todolist_react)](https://github.com/gaserashraf/todolist_react/network)
-[![GitHub stars](https://img.shields.io/github/stars/ahmednassar/todolist_react)](https://github.com/gaserashraf/todolist_react/stargazers)
-[![GitHub license](https://img.shields.io/github/license/ahmednassar/todolist_react)](https://github.com/gaserashraf/todolist_react/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/ahmednassar/todolist-react)](https://github.com/todolist-react/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/ahmednassar/todolist-react)](https://github.com/gaserashraf/todolist-react/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ahmednassar/todolist-react)](https://github.com/gaserashraf/todolist-react/network)
+[![GitHub stars](https://img.shields.io/github/stars/ahmednassar/todolist-react)](https://github.com/gaserashraf/todolist-react/stargazers)
+[![GitHub license](https://img.shields.io/github/license/ahmednassar/todolist-react)](https://github.com/gaserashraf/todolist-react/blob/master/LICENSE)
 
 </div>
 
