@@ -12,7 +12,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/ahmednassar7/todolist-react)](https://github.com/ahmednassar7/todolist-react/issues)
 [![GitHub forks](https://img.shields.io/github/forks/ahmednassar7/todolist-react)](https://github.com/ahmednassar7/todolist-react/network)
 [![GitHub stars](https://img.shields.io/github/stars/ahmednassar7/todolist-react)](https://github.com/ahmednassar7/todolist-react/stargazers)
-[![GitHub license](https://img.shields.io/github/license/ahmednassar7/todolist-react)](https://github.com/ahmednassar7/todolist-react/blob/master/LICENSE)
 
 </div>
 
