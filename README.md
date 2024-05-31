@@ -18,7 +18,7 @@
 ## 🏁 Get Started <a name = "Install"></a>
 
 ```
-git clone https://github.com/ahmednassar7/todolist_react.git
+git clone https://github.com/ahmednassar7/to-do-list.git
 ```
 ```
 npm install
